@@ -6,9 +6,4 @@
 2. More Advanced Topics
 3. Other information
 
-To get started, clone the repository:
-```bash
-git clone https://github.com/engabdasaly-hue/git-made-easy.git
-```
-
-## How to use this repository
+### Making a new change
