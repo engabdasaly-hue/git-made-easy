@@ -1,1 +1,2 @@
 log-demo: line 1
+log-demo: line 2
